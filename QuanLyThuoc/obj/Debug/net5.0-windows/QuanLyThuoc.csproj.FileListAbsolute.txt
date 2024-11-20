@@ -1,0 +1,91 @@
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.exe
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.deps.json
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.json
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.dev.json
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.pdb
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.AssemblyReference.cache
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Form1.resources
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.GenerateResource.cache
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfoInputs.cache
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfo.cs
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CoreCompileInputs.cache
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\refint\QuanLyThuoc.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.pdb
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.genruntimeconfig.cache
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\ref\QuanLyThuoc.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.CategoryForm.resources
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.FormMain.resources
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Report.resources
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.User.resources
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CopyComplete
+D:\Work\Freelacer\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.SellMedicine.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.exe
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.deps.json
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.json
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.dev.json
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\ref\QuanLyThuoc.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.pdb
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.AssemblyReference.cache
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.CategoryForm.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Form1.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.FormMain.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Report.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.SellMedicine.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.User.resources
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.GenerateResource.cache
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfoInputs.cache
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfo.cs
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CoreCompileInputs.cache
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CopyComplete
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\ref\QuanLyThuoc.dll
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.pdb
+C:\Users\thean\Downloads\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.genruntimeconfig.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.exe
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.deps.json
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.json
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.runtimeconfig.dev.json
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\ref\QuanLyThuoc.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\QuanLyThuoc.pdb
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.AssemblyReference.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.CategoryForm.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Form1.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.FormMain.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Report.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.SellMedicine.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.User.resources
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.GenerateResource.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfoInputs.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.AssemblyInfo.cs
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CoreCompileInputs.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.csproj.CopyComplete
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\ref\QuanLyThuoc.dll
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.pdb
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.genruntimeconfig.cache
+C:\Users\thean\OneDrive\Máy tính\BT LT win\QuanLyThuoc\QuanLyThuoc\obj\Debug\net5.0-windows\QuanLyThuoc.Properties.Resources.resources
